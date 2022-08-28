@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @celonmarshal
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning js
+- 🌱 I’m currently learning more on frontend
 - 💞️ I’m looking to collaborate on task that involve frontend web.
 - 📫 How to reach me ....
 
