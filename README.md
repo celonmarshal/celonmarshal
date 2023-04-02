@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @celonmarshal
+- 👋 Hi, I am Marshal Martin
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning more on frontend
 - 💞️ I’m looking to collaborate on task that involve frontend web.
